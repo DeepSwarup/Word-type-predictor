@@ -1,0 +1,1 @@
+This is a machine learning model capable of predicting the niche of a word. Naive bayes machine learning algorithm is used. Sklearn's datasets 20newsgroups is used to train and test the model. Confusion matrix shows fairly good accuracy of the model.
